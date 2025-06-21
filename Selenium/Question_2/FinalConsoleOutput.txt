@@ -1,0 +1,5 @@
+Unique Rows Count: 4
+John|Doe|25|
+Jane|Doe|30|
+Alice|Smith|22|
+Bob|Brown|28|
