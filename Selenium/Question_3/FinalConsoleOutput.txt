@@ -1,0 +1,8 @@
+Max Vote: CARLOS ALVARES FERREIRA - 9320
+Max Percentage: CARLOS ALVARES FERREIRA - 41.43%
+Max Vote Diff: 9160
+Min Vote Winner: POOJA MAYEKAR - 116
+Min Percentage Winner: POOJA MAYEKAR - 0.52
+Candidates below NOTA: 1
+Candidates with >50% votes: 0
+Min Vote Candidate: Candidate X - 1131
