@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Dropdown Suite">
+  <test name="Dropdown Tests">
+    <classes>
+      <class name="com.assignment.tests.DateSelectionTest"/>
+      <class name="com.assignment.tests.YearValidationTest"/>
+    </classes>
+  </test>
+</suite>
